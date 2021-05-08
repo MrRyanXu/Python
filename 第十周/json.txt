@@ -1,0 +1,26 @@
+[
+    {
+        "email": "jack@126.com",
+        "name": "jack",
+        "password": "12345",
+        "qq": "1111111"
+    },
+    {
+        "email": "lucy@qq.com",
+        "name": "lucy",
+        "password": "88888",
+        "qq": "1234567"
+    },
+    {
+        "email": "tom@sina.com",
+        "name": "tom",
+        "password": "admin",
+        "qq": "555555"
+    },
+    {
+        "email": "william@sina.com",
+        "name": "william",
+        "password": "william123",
+        "qq": "777777"
+    }
+]
