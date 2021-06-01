@@ -13,11 +13,11 @@ print("BMI数值为：{:.2f}".format(BMI))
 result = ""
 if BMI < 18.5:
     result = "过轻"
-elif 18.5 <= BMI <= 25:
+elif 18.5 <= BMI < 25:
     result = "正常"
-elif 25 <= BMI <= 28:
+elif 25 <= BMI < 28:
     result = "过重"
-elif 28 <= BMI <= 32:
+elif 28 <= BMI < 32:
     result = "肥胖"
 else:
     result = "严重肥胖"
