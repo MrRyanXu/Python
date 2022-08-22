@@ -1,8 +1,8 @@
 '''
-编写程序，爬取萍乡学院官网的页面信息，将爬取到的页面保存到“D:\\萍乡学院.html”(注意字符编码问题和UA伪装)。
+编写程序，爬取PingxiangUniversity官网的页面信息，将爬取到的页面保存到“D:\\PingxiangUniversity.html”(注意字符编码问题和UA伪装)。
 '''
 import requests
-with open('D:\\萍乡学院.html','w+',encoding='utf-8') as f:
+with open('D:\\PingxiangUniversity.html','w+',encoding='utf-8') as f:
     #创建需要访问的网页链接
     url = "http://www.pxc.jx.cn/"
 
